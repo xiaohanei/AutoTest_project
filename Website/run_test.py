@@ -3,7 +3,7 @@ from function import *
 #from BSTestRunner import BSTestRunner
 import time
 
-
+i = "5555"
 
 report_dir='./test_report'
 test_dir='./test_case'
